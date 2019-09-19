@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556527530 source:c:\users\adam\desktop\c\assessment 2\minesweeper\game_functions.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	"game_function.h"
+
+1556527530 c:\users\adam\desktop\c\assessment 2\minesweeper\game_function.h
+	<stdbool.h>
+
+1556527530 source:c:\users\adam\desktop\c\assessment 2\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game_function.h"
+
